@@ -1,4 +1,3 @@
 # learning-git
 
-![red-check-mark-transparent-background-7](https://user-images.githubusercontent.com/86379978/143564008-c09fbfeb-dc2c-4ab3-9011-4ab25a6a112c.png)
-
+![git-image](https://user-images.githubusercontent.com/86379978/143564542-0fbe5d9f-06bb-46bc-b254-2b0169f605b1.png)
